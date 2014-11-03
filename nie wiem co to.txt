@@ -1,0 +1,16 @@
+x=array.new
+y=array.new
+b=array.new
+
+puts "ile bedzie x"
+liczba_x = gets.to_i
+
+for i in 0 .. liczba_x - 1
+puts "kolejny x"
+x[i] = gest.to_i
+end
+
+for i in 0 .. liczba_x - 1
+puts "podaj kolejny y"
+x[i] = gest.to_i
+end
